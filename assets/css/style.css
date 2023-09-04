@@ -68,6 +68,7 @@ input:active{
     border-color: var(--Purple);
     caret-color: var(--Purple);
     outline: none;
+    cursor: pointer;
 }
 .submit__block{
     display: flex;
@@ -88,6 +89,7 @@ input:active{
 }
 .submit__button:hover{
     background-color: var(--Offblack);
+    cursor: pointer;
 }
 .output h1{
     font-size: 5rem;
