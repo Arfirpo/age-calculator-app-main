@@ -36,12 +36,12 @@ Users should be able to:
 
 ### Screenshot 📷
 
-- ![Mobile Design](./assets/images/mobile-design.jpg)
-- ![Mobile Design-age calculated](./assets/images/md-calculator.jpg)
-- ![Mobile Design - Hover/focus state](./assets/images/md-hover-state.jpg)
-- ![Desktop Design](./assets/images/desktop-design.jpg)
-- ![Empty field Error](./assets/images/md-empty-field-error.jpg)
-- ![invalid date Error](./assets/images/md-error-date.jpg)
+![Mobile Design](./assets/images/mobile-design.jpg)
+![Mobile Design-age calculated](./assets/images/md-calculator.jpg)
+![Mobile Design - Hover/focus state](./assets/images/md-hover-state.jpg)
+![Desktop Design](./assets/images/desktop-design.jpg)
+![Empty field Error](./assets/images/md-empty-field-error.jpg)
+![invalid date Error](./assets/images/md-error-date.jpg)
 
 ### Links 🔗
 
