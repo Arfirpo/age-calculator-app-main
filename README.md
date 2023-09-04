@@ -36,10 +36,10 @@ Users should be able to:
 
 ### Screenshot 📷
 
-- ![Mobile Design](./screenshot.jpg)
+- ![Mobile Design](./assets/images/mobile-design.jpg)
 - ![Mobile Design - Hover/focus state](./screenshot.jpg)
-- ![Desktop Design](./screenshot.jpg)
-- ![Empty field Error](./screenshot.jpg)
+- ![Desktop Design](./assets/images/desktop-design.jpg)
+- ![Empty field Error](./assets/images/)
 - ![invalid date Error](./screenshot.jpg)
 
 ### Links 🔗

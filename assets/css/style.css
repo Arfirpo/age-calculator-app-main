@@ -86,6 +86,9 @@ input:active{
     align-items: center;
     justify-content: center;
 }
+.submit__button:hover{
+    background-color: var(--Offblack);
+}
 .output h1{
     font-size: 5rem;
     font-weight: 800;
