@@ -39,7 +39,7 @@ Users should be able to:
 - ![Mobile Design](./assets/images/mobile-design.jpg)
 - ![Mobile Design - Hover/focus state](./assets/images/md-hover-state.jpg)
 - ![Desktop Design](./assets/images/desktop-design.jpg)
-- ![Empty field Error](./assets/images/md-empty-field-error.jpg)
+- ![Empty field Error](./assets/)
 - ![invalid date Error](./screenshot.jpg)
 
 ### Links 🔗
@@ -58,11 +58,11 @@ Users should be able to:
 
 ### What I learned 📚
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ### Continued development 🔨
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ## Author 🙋🏻‍♂️
 

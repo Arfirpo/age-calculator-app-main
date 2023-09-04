@@ -40,6 +40,7 @@ function validate() {
         } else if (inputDay.value > 31) {
             inputDay.style.borderColor = "red";
             inputDay.parentElement.querySelector('small').innerText = "Must be a valid day.";
+            validator = false;
         } else {
             i.style.borderColor = 'black';
             parent.querySelector('small').innerText = "";
