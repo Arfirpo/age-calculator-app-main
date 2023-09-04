@@ -30,6 +30,9 @@ function validate() {
             i.style.borderColor = "red";
             parent.querySelector('small').innerText = "This field is requiered.";
             validator = false;
+        } else if (inputYear.value > year) {
+            inputYear.style.borderColor = "red";
+            inputYear.parentElement.querySelector('small').innerText = "Must be in the past.";
         } else if (inputMonth.value > 12) {
             inputMonth.style.borderColor = "red";
             inputMonth.parentElement.querySelector('small').innerText = "Must be a valid month.";
