@@ -3,6 +3,10 @@
 Hi everybody! 👋
 This is a solution to the [Age calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q).
 
+- PS:  I don’t quite understand how to animate the transition of numbers (bonus of the challenge), if anyone could guide me at this point I would thank them.
+- PS2: if someone wanted to check my javascript code and suggest how to improve it would be great.
+Saludos!
+
 ## Table of contents  🧾
 
 - [Overview](#overview)
@@ -36,10 +40,10 @@ Users should be able to:
 
 ### Screenshot 📷
 
+![Desktop Design](./assets/images/desktop-design.jpg)
 ![Mobile Design](./assets/images/mobile-design.jpg)
 ![Mobile Design-age calculated](./assets/images/md-calculator.jpg)
 ![Mobile Design - Hover/focus state](./assets/images/md-hover-state.jpg)
-![Desktop Design](./assets/images/desktop-design.jpg)
 ![Empty field Error](./assets/images/md-empty-field-error.jpg)
 ![invalid date Error](./assets/images/md-error-date.jpg)
 
@@ -59,11 +63,13 @@ Users should be able to:
 
 ### What I learned 📚
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+This work was a real challenge when testing my skills with javascript, mainly when I had to create the functionalities of error messages for inputs and also to assemble the age calculation.
+With this challenge I began to get into the management of functions and calculations.
 
 ### Continued development 🔨
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+In the following challenges I want to improve my javascript skills.
+I must strengthen my knowledge and management of functions, field validation and much more.
 
 ## Author 🙋🏻‍♂️
 
